@@ -57,7 +57,3 @@ Over time, this repo becomes:
 
 This repository is not meant to be perfect (since I'm not a perfect engineer and still learning)—\
 I am always open to update it and make it better.
-
-```
-
-```
