@@ -1,0 +1,61 @@
+# 📚 Engineering Knowledge Base
+
+Welcome to my **personal engineering knowledge base**.\
+This repository is where I collect and organize everything I learn across **backend, frontend, cloud, security, and system design**.
+
+It’s not just code snippets—it’s a mix of **deep dives, best practices, attack mitigations, and architectural principles** that I want to keep for long-term reference.\
+Think of it as a continuously evolving **engineering handbook**.
+
+---
+
+## 🏗️ Structure
+
+```
+/backend        → API design, service layers, NestJS/Express patterns
+/frontend       → Next.js, UI state management, performance tuning
+/cloud          → Infrastructure as code, scaling patterns, observability
+/ai             → Tokenizers, ML concepts, applied AI in systems
+```
+
+---
+
+## 🎯 Principles
+
+This repo follows a few guiding principles:
+
+1. **Security by Design** → Prevent leaks, enforce least privilege, constant-time checks.
+2. **Sustainability** → Patterns that scale, not hacks.
+3. **Clarity over Cleverness** → Code should be understandable, not just “smart”.
+4. **Knowledge as Code** → Treat notes like source code: versioned, reviewed, improved.
+5. **Keep it simple** → Don't overcomplicate things.
+
+---
+
+## 🚀 Vision
+
+The goal is to build a **living engineering handbook** that I (and possibly others) can always come back to.\
+Every time I learn something valuable—whether from backend debugging, frontend optimization, a cloud deployment, or a security issue—I push it here.
+
+Over time, this repo becomes:
+
+-    A **personal reference** for daily engineering work.
+-    A **training ground** to onboard others faster.
+-    A **knowledge archive** that doesn’t get lost in scattered notes.
+
+---
+
+## 📌 Usage
+
+-    Browse through subjects for concept notes.
+-    Feel free to add your own notes by creating PRs.
+
+---
+
+## 🧭 Final Note
+
+This repository is not meant to be perfect (since I'm not a perfect engineer and still learning)—\
+I am always open to update it and make it better.
+
+```
+
+```
